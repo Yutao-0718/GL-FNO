@@ -8,3 +8,4 @@ GL-FNO, or Global-Local Fourier Neural Operator, is a deep learning model design
 By combining these two branches, GL-FNO aims to improve the accuracy and efficiency of predicting magnetic field structures, achieving significant computational speed-ups compared to traditional methods like magnetohydrodynamics (MHD) simulations. GL-FNO outperforms other models like CNN-RNN, CNN-LSTM, Vision Transformer in accuracy. Similarly we compare GL-FNO with other FNO-based models (UNO, U-FNO) and again outperform these models.
 
 The following figure shows the structure of GL-FNO.
+![(a) The architecture of the global-local fourier neural operators; (b) local fourier layer; (c) tucker decomposition](https://github.com/Yutao-0718/GL-FNO/blob/main/image/GL-FNO%20structure.jpg)
