@@ -16,7 +16,7 @@ All data used in the experiments are available from Hinode Science Data Centre E
 # Requirements
 - numpy
 - matplotlib
-- Pytorch >= 1.8
+- Pytorch >= 1.8.0
 - [neuralop](https://github.com/neuraloperator/neuraloperator)
 - [torch-harmonics](https://github.com/NVIDIA/torch-harmonics)
 - scikit-learn
