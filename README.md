@@ -14,18 +14,18 @@ The following figure shows the structure of GL-FNO.
 All data used in the experiments are available from Hinode Science Data Centre Europe [https://sdc.uio.no/search/simulations](https://sdc.uio.no/search/simulations). Select **en024048_hion**, next select **bx, by, bz**, next select **Start: 385, Stop: 541, Stride: 1**, and then you can download the orginal data.
 
 # Requirements
--numpy
--matplotlib
--Pytorch >= 1.8
--[neuralop](https://github.com/neuraloperator/neuraloperator)
--[torch-harmonics](https://github.com/NVIDIA/torch-harmonics)
--scikit-learn
--tqdm
--h5py
--wandb
--ruamel.yaml
--configmypy
--tensorly
--tensorly-torch
--opt-einsum
--zarr
+- numpy
+- matplotlib
+- Pytorch >= 1.8
+- [neuralop](https://github.com/neuraloperator/neuraloperator)
+- [torch-harmonics](https://github.com/NVIDIA/torch-harmonics)
+- scikit-learn
+- tqdm
+- h5py
+- wandb
+- ruamel.yaml
+- configmypy
+- tensorly
+- tensorly-torch
+- opt-einsum
+- zarr
