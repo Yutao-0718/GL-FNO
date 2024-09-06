@@ -11,4 +11,4 @@ The following figure shows the structure of GL-FNO.
 ![(a) The architecture of the global-local fourier neural operators; (b) local fourier layer; (c) tucker decomposition](https://github.com/Yutao-0718/GL-FNO/blob/main/image/GL-FNO%20structure.jpg)
 
 # Data Set
-All data used in the experiments are available from Hinode Science Data Centre Europe [https://sdc.uio.no/search/simulations](https://sdc.uio.no/search/simulations)
+All data used in the experiments are available from Hinode Science Data Centre Europe [https://sdc.uio.no/search/simulations](https://sdc.uio.no/search/simulations). Select **en024048_hion**, next select **bx, by, bz**, next select **Start: 385, Stop: 541, Stride: 1**, and then you can download the orginal data.
